@@ -106,7 +106,8 @@ section {
   display: block;
 }
 body {
-  /* Add background-color declaration here */
+   background-color: black;
+   /* Add background-color declaration here */
 }
 ol,
 ul {
